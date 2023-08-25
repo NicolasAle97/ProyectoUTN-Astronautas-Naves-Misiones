@@ -1,0 +1,732 @@
+# depslib dependency file v1.0
+1624024563 source:c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+
+1624133880 c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\astronauta.h
+
+1624133859 source:c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1623963949 c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\nave.h
+
+1623964721 c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\mision.h
+
+1623884982 source:c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+
+1623965931 source:c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1624034593 source:c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+
+1624023735 c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\menu.h
+
+1624122370 source:c:\users\nicolas ale\documents\github\astronautas-naves-y-misiones\trabajo final 2021\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624123212 source:c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1624123212 c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\astronauta.h
+
+1624123212 c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\menu.h
+
+1624123212 source:c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624220853 source:c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1624220853 c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\nave.h
+
+1624123212 c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\mision.h
+
+1624123212 source:c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+
+1624123212 source:c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+
+1624223149 source:c:\users\santiago\desktop\astronautas-naves-y-misiones-main\trabajo final 2021\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1624236672 source:c:\users\nicolas ale\desktop\trabajo final 2021\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1624234550 c:\users\nicolas ale\desktop\trabajo final 2021\astronauta.h
+
+1624234550 c:\users\nicolas ale\desktop\trabajo final 2021\menu.h
+
+1624233896 source:c:\users\nicolas ale\desktop\trabajo final 2021\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624236385 source:c:\users\nicolas ale\desktop\trabajo final 2021\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1624220853 c:\users\nicolas ale\desktop\trabajo final 2021\nave.h
+
+1624234550 c:\users\nicolas ale\desktop\trabajo final 2021\mision.h
+
+1624236253 source:c:\users\nicolas ale\desktop\trabajo final 2021\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+
+1624123212 source:c:\users\nicolas ale\desktop\trabajo final 2021\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+
+1624225901 source:c:\users\nicolas ale\desktop\trabajo final 2021\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1624236672 source:c:\users\santiago\desktop\trabajo final 2021 act 21-06\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1624234550 c:\users\santiago\desktop\trabajo final 2021 act 21-06\astronauta.h
+
+1624315297 c:\users\santiago\desktop\trabajo final 2021 act 21-06\menu.h
+
+1624233896 source:c:\users\santiago\desktop\trabajo final 2021 act 21-06\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624321435 source:c:\users\santiago\desktop\trabajo final 2021 act 21-06\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1624321080 c:\users\santiago\desktop\trabajo final 2021 act 21-06\nave.h
+
+1624321080 c:\users\santiago\desktop\trabajo final 2021 act 21-06\mision.h
+
+1624315297 source:c:\users\santiago\desktop\trabajo final 2021 act 21-06\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+
+1624322275 source:c:\users\santiago\desktop\trabajo final 2021 act 21-06\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+
+1624315780 source:c:\users\santiago\desktop\trabajo final 2021 act 21-06\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1624233896 source:c:\users\santiago\desktop\actual\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624381029 source:c:\users\santiago\desktop\actual\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1624321080 c:\users\santiago\desktop\actual\nave.h
+
+1624380876 source:c:\users\santiago\desktop\actual\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1624328390 c:\users\santiago\desktop\actual\astronauta.h
+
+1624380044 c:\users\santiago\desktop\actual\menu.h
+
+1624378182 source:c:\users\santiago\desktop\actual\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1624336524 c:\users\santiago\desktop\actual\mision.h
+
+1624381128 source:c:\users\santiago\desktop\actual\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1624378664 source:c:\users\santiago\desktop\actual\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1624464728 source:c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1624465275 c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\astronauta.h
+
+1624380044 c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\menu.h
+
+1624233896 source:c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624464554 source:c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1624321080 c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\nave.h
+
+1624414836 c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\mision.h
+
+1624464554 source:c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1624464554 source:c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1624381350 source:c:\users\nicolas ale\desktop\actualizado al 22-06 tp final\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1624573133 source:c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1624465275 c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\astronauta.h
+
+1624380044 c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\menu.h
+
+1624233896 source:c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624490255 source:c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1624568104 source:c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1624321080 c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\nave.h
+
+1624572230 source:c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1624498933 c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\mision.h
+
+1624498652 source:c:\users\santiago\desktop\actual 23-06\actualizado al 22-06 tp final\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1624724088 source:c:\users\santiago\desktop\actual 23-06\actual 23-06\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1624465275 c:\users\santiago\desktop\actual 23-06\actual 23-06\astronauta.h
+
+1624380044 c:\users\santiago\desktop\actual 23-06\actual 23-06\menu.h
+
+1624233896 source:c:\users\santiago\desktop\actual 23-06\actual 23-06\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624574583 source:c:\users\santiago\desktop\actual 23-06\actual 23-06\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1624724088 source:c:\users\santiago\desktop\actual 23-06\actual 23-06\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1624573200 c:\users\santiago\desktop\actual 23-06\actual 23-06\mision.h
+
+1624321080 c:\users\santiago\desktop\actual 23-06\actual 23-06\nave.h
+
+1624568104 source:c:\users\santiago\desktop\actual 23-06\actual 23-06\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1624724088 source:c:\users\santiago\desktop\actual 23-06\actual 23-06\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1624742265 source:c:\users\santiago\desktop\actual 26-06\actual 23-06\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1624465275 c:\users\santiago\desktop\actual 26-06\actual 23-06\astronauta.h
+
+1624380044 c:\users\santiago\desktop\actual 26-06\actual 23-06\menu.h
+
+1624233896 source:c:\users\santiago\desktop\actual 26-06\actual 23-06\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624835022 source:c:\users\santiago\desktop\actual 26-06\actual 23-06\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1624321080 c:\users\santiago\desktop\actual 26-06\actual 23-06\nave.h
+
+1624829744 c:\users\santiago\desktop\actual 26-06\actual 23-06\mision.h
+
+1625076015 source:c:\users\santiago\desktop\actual 26-06\actual 23-06\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1624835390 source:c:\users\santiago\desktop\actual 26-06\actual 23-06\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1624568104 source:c:\users\santiago\desktop\actual 26-06\actual 23-06\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1625084719 source:c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1625081852 c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\astronauta.h
+
+1625083420 c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\menu.h
+
+1624233896 source:c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625091750 source:c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1624321080 c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\nave.h
+
+1624829744 c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\mision.h
+
+1625089018 source:c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1625092623 source:c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1625086064 source:c:\users\nicolas ale\desktop\actual 26-06\actual 23-06\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1625084719 source:c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+	"Menu.h"
+
+1625081852 c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\astronauta.h
+
+1625083420 c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\menu.h
+
+1624233896 source:c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625100614 source:c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1625100150 c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\nave.h
+
+1624829744 c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\mision.h
+
+1625100548 source:c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1625097154 source:c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1625100820 source:c:\users\nicolas ale\desktop\actual 30-06\actual 23-06\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1625158029 source:c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+
+1625081852 c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\astronauta.h
+
+1625083420 c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\menu.h
+
+1624233896 source:c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625159340 source:c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1625100150 c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\nave.h
+
+1624829744 c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\mision.h
+
+1625161327 source:c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1625158671 source:c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1625157950 source:c:\users\nicolas ale\desktop\ultima version de astronautas,naveymisiones\actual 23-06\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1625158029 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\actual 23-06\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+
+1625081852 c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\actual 23-06\astronauta.h
+
+1625159340 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\actual 23-06\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1625100150 c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\actual 23-06\nave.h
+
+1625199461 c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\actual 23-06\mision.h
+
+1625083420 c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\actual 23-06\menu.h
+
+1625158671 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\actual 23-06\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1625157950 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\actual 23-06\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1625163229 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\actual 23-06\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1625158029 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\tp final lab com1\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+
+1625081852 c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\tp final lab com1\astronauta.h
+
+1625159340 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\tp final lab com1\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1625100150 c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\tp final lab com1\nave.h
+
+1625199461 c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\tp final lab com1\mision.h
+
+1625083420 c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\tp final lab com1\menu.h
+
+1625163229 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\tp final lab com1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1625158671 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\tp final lab com1\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1625157950 source:c:\users\santiago\desktop\ultima version de astronautas,naveymisiones\tp final lab com1\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
+1625158029 source:c:\users\santiago\desktop\astronautas, naves y misiones\tp final lab com1\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Astronauta.h"
+
+1625081852 c:\users\santiago\desktop\astronautas, naves y misiones\tp final lab com1\astronauta.h
+
+1625159340 source:c:\users\santiago\desktop\astronautas, naves y misiones\tp final lab com1\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Astronauta.h"
+	"Nave.h"
+	"Mision.h"
+	"Menu.h"
+
+1625100150 c:\users\santiago\desktop\astronautas, naves y misiones\tp final lab com1\nave.h
+
+1625199461 c:\users\santiago\desktop\astronautas, naves y misiones\tp final lab com1\mision.h
+
+1625083420 c:\users\santiago\desktop\astronautas, naves y misiones\tp final lab com1\menu.h
+
+1625163229 source:c:\users\santiago\desktop\astronautas, naves y misiones\tp final lab com1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Astronauta.h"
+
+1625158671 source:c:\users\santiago\desktop\astronautas, naves y misiones\tp final lab com1\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mision.h"
+	"Nave.h"
+	"Menu.h"
+	"Astronauta.h"
+
+1625157950 source:c:\users\santiago\desktop\astronautas, naves y misiones\tp final lab com1\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nave.h"
+
